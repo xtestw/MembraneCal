@@ -1,0 +1,80 @@
+@ 2
+c x(i) , [d|t(i)] [d|f(i)] , , 1
+d t(i) , u(i) (t(i),in) , , 1
+d f(i) , v(i) (f(i),in) , , 1
+u(i) , % , g , 1
+x(i) , % , g , 1
+g , $ , , 2
+v(i) , % , g , 1
+y(i) , % , g , 1
+q , c , , 1
+c , (c,in) , , 2
+@ 3
+h t(i) x(i) , y (t(i),in) , , 1
+h f(i) x(i) , n (f(i),in) , , 1
+h t(i) y(i) , n (t(i),in) , , 1
+h f(i) y(i) , y (f(i),in) , , 1
+t(i) , (t(i),in) , , 2
+f(i) , (f(i),in) , , 2
+x(i) , % , y , 1
+h , % , y , 1
+y(i) , % , y , 1
+y , $ , , 3
+n h , h , , 1
+n , b (a,in) , , 2
+y a , (a,in) $ , , 2
+a , (a,in) ,  , 3
+h , % , g , 1
+y(i) , % , g , 1
+x(i) , % , g , 1
+g , g $ , , 2
+b q , % , , 1
+q , (q,out) , , 2
+@ 4
+h t(i) x(i) , y (t(i),in) , , 1
+h f(i) x(i) , n (f(i),in) , , 1
+h t(i) y(i) , n (t(i),in) , , 1
+h f(i) y(i) , y (f(i),in) , , 1
+t(i) , (t(i),in) , , 2
+f(i) , (f(i),in) , , 2
+x(i) , % , y , 1
+h , % , y , 1
+y(i) , % , y , 1
+y , $ , , 3
+n h , h , , 1
+n , b (a,in) , , 2
+y a , (a,in) $ , , 2
+a , (a,in) ,  , 3
+h , % , g , 1
+y(i) , % , g , 1
+x(i) , % , g , 1
+g , g $ , , 2
+b q , % , , 1
+q , (q,out) , , 2
+@ 5
+h t(i) x(i) , y (t(i),in) , , 1
+h f(i) x(i) , n (f(i),in) , , 1
+h t(i) y(i) , n (t(i),in) , , 1
+h f(i) y(i) , y (f(i),in) , , 1
+t(i) , (t(i),in) , , 2
+f(i) , (f(i),in) , , 2
+x(i) , % , y , 1
+h , % , y , 1
+y(i) , % , y , 1
+y , $ , , 3
+n h , h , , 1
+n , b (a,in) , , 2
+y a , (a,in) $ , , 2
+a , (a,in) ,  , 3
+h , % , g , 1
+y(i) , % , g , 1
+x(i) , % , g , 1
+g , g $ , , 2
+b q , % , , 1
+q , (q,out) , , 2
+@ e
+t(i) e , e (q,out) , , 1
+f(i) e , e (q,out) , , 1
+a e , g $ , , 1
+c e , $ , , 2
+@#

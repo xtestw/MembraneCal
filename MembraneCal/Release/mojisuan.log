@@ -1,0 +1,131 @@
+﻿生成启动时间为 2014/8/12 21:20:21。
+     1>项目“F:\Project\mojisuan\mojisuan\mojisuan.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\mojisuan.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mojisuan.cpp
+         mojisuan.cpp
+     1>mojisuan.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(70): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>mojisuan.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(271): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(272): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(314): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(341): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(400): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(405): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(417): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(426): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(431): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(455): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(468): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>mojisuan.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(554): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(594): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+     1>mojisuan.cpp(630): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>mojisuan.cpp(632): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(249) : 参见“freopen”的声明
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::erase”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree_iterator<_Mytree>::_Tree_iterator”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::erase”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree_const_iterator<_Mytree>::_Tree_const_iterator”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree_unchecked_const_iterator<_Mytree,_Base>::_Tree_unchecked_const_iterator”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>,
+                     _Base=std::_Iterator_base
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::insert”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::_Insert”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::_Linsert”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree<_Traits>::_Insert”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Tree_val<_Traits>::_Buynode”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Traits=std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::pair<_Ty1,_Ty2>::pair”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>>,
+                     _Ty2=bool
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Revranit<_RanIt,_Base>::_Equal”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _RanIt=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>>,
+                     _Base=std::iterator<std::bidirectional_iterator_tag,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>,__w64 int,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>> *,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>> &>
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Pair_base<_Ty1,_Ty2>::_Pair_base”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _Ty1=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>>,
+                     _Ty2=bool
+                 ]
+     1>D:\Program Files\Microsoft Visual Studio 10.0\VC\include\xmemory(201): warning C4503: “std::_Revranit<_RanIt,_Base>”: 超出修饰名的长度，名称被截断
+                 with
+                 [
+                     _RanIt=std::_Tree_iterator<std::_Tree_val<std::_Tmap_traits<Membrane *,std::map<std::string,std::map<std::string,int>>,std::less<Membrane *>,std::allocator<std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>>,false>>>,
+                     _Base=std::iterator<std::bidirectional_iterator_tag,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>>,__w64 int,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>> *,std::pair<Membrane *const ,std::map<std::string,std::map<std::string,int>>> &>
+                 ]
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Project\mojisuan\Release\mojisuan.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\mojisuan.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Project\mojisuan\Release\mojisuan.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Project\mojisuan\Release\mojisuan.lib" /MACHINE:X86 Release\mojisuan.obj
+         正在生成代码
+         已完成代码的生成
+         mojisuan.vcxproj -> F:\Project\mojisuan\Release\mojisuan.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Project\mojisuan\Release\mojisuan.exe;#1" /manifest Release\mojisuan.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\mojisuan.unsuccessfulbuild”。
+         正在对“Release\mojisuan.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Project\mojisuan\mojisuan\mojisuan.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.58
